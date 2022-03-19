@@ -1,14 +1,5 @@
-# Default starter for Gridsome
+# Laravel Husk
 
-This is the project you get when you run `gridsome create new-project`.
+A thin wrapper around Laravel Dusk, allowing you to test your JavaScript applications with Pest.
 
-### 1. Install Gridsome CLI tool if you don't have
-
-`npm install --global @gridsome/cli`
-
-### 2. Create a Gridsome project
-
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+![Gridsome Tests](https://github.com/stevebauman/laravel-husk-gridsome/actions/workflows/run-tests.yml/badge.svg)
